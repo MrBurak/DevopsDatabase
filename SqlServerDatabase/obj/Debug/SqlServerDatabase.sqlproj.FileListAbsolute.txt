@@ -1,0 +1,6 @@
+D:\Projects\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.dacpac
+D:\Projects\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.dll
+D:\Projects\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.pdb
+D:\Projects\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.sqlprojAssemblyReference.cache
+D:\Projects\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.dll
+D:\Projects\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.pdb
